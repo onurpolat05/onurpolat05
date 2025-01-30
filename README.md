@@ -16,7 +16,7 @@ I'm a passionate developer with a strong focus on **frontend** and **backend** t
 ### 💻 Tech Stack
 
 - **Frontend**: React, React Native, Vue.js
-- **Backend**: Node.js, Express.js, Python (Flask/Django)
+- **Backend**: Node.js, Express.js, Java (Spring Boot)
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **AI & ML**: LLMs, AI Agents, NLP
 - **Tools & Platforms**: Git, Docker, AWS, Firebase
@@ -66,11 +66,6 @@ Feel free to connect with me through any of the following platforms:
 
 ---
 
-### 😄 Pronouns
-
-He/Him
-
----
 
 ### ⚡ Fun Fact
 
