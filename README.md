@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/onurpolat05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/onurpolat05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -8,70 +7,50 @@
 ---
 
 ### 🚀 About Me
-
-I'm a passionate developer with a strong focus on **frontend** and **backend** technologies. Currently, I'm actively working on projects involving **React**, **React Native**, and **Vue.js**, while also diving deep into the world of **LLMs (Large Language Models)** and **AI Agents**.
+I'm a passionate developer with 5+ years of frontend experience and a focus on AI-powered solutions. As an approved n8n content creator, I build automation workflows that optimize business processes, improving productivity by up to 40%. I work extensively with **React**, **Vue.js**, and **React Native**, while also specializing in **LLMs** and **AI Agents** through **LangChain** & **LangGraph**.
 
 ---
 
 ### 💻 Tech Stack
-
-- **Frontend**: React, React Native, Vue.js
+- **Frontend**: React, Vue.js, React Native, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, Java (Spring Boot)
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **AI & ML**: LLMs, AI Agents, NLP
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis
+- **AI & Automation**: LLMs, LangChain, LangGraph, n8n
+- **Web Scraping**: Selenium, Puppeteer
 - **Tools & Platforms**: Git, Docker, AWS, Firebase
 
 ---
 
-### 🌱 What I'm Currently Learning/Working On
-
-- 🧠 Exploring **LLMs** and building intelligent **AI Agents** for real-world applications.
-- 📱 Developing cross-platform mobile apps using **React Native**.
-- 🌐 Building scalable web applications with **React** and **Vue.js**.
-- 🔥 Enhancing my backend skills with **Node.js** and **Python**.
+### 🌱 Current Focus
+- 🧠 Building intelligent **AI Agents** with **LangChain** & **LangGraph**
+- 🔄 Creating **n8n workflow templates** for business automation
+- 📱 Developing cross-platform mobile apps with **React Native**
+- 🛒 Implementing **E-commerce automation** solutions (Amazon & eBay)
 
 ---
 
 ### 🤝 Looking to Collaborate On
-
-- Open-source projects related to **AI/ML** and **NLP**.
-- Full-stack development projects using **React**, **Vue.js**, or **React Native**.
-- Innovative ideas that involve **AI Agents** and **Automation**.
-
----
-
-### 🤔 I’m Looking for Help With
-
-- Advanced **AI/ML** techniques and model optimization.
-- Best practices for **scalable architecture** in large-scale applications.
-- Tips and tricks for improving **performance** in React Native apps.
+- AI-powered automation workflows using **n8n**, **LangChain** or **LangGraph**
+- Full-stack applications with **React/Vue.js** and **Node.js**
+- Browser extensions and **SaaS** development projects
 
 ---
 
 ### 💬 Ask Me About
-
-- Building **AI-powered applications** using LLMs.
-- Developing **cross-platform mobile apps** with React Native.
-- Designing **RESTful APIs** and **GraphQL** endpoints.
-- Deploying applications on **cloud platforms** like AWS or Firebase.
+- **AI workflow automation** and n8n template creation
+- Building **fast and user-friendly** frontend applications
+- Implementing **web scraping** solutions for e-commerce
+- Developing **browser extensions** and cloud-based SaaS products
 
 ---
 
 ### 📫 How to Reach Me
-
-Feel free to connect with me through any of the following platforms:
-
 - **LinkedIn**: [onurpolat05](https://www.linkedin.com/in/onurpolat05/)
 - **Instagram**: [@onurpolat05](https://www.instagram.com/onurpolat05/)
 
 ---
 
-
 ### ⚡ Fun Fact
-
 I love exploring the intersection of **AI** and **human creativity**, and I'm always excited to see how technology can enhance our daily lives!
 
 ---
-
-<!--
-**onurpolat05
